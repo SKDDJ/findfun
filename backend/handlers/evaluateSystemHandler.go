@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"./database"
+	"github.com/skddj/findfun/backend/database"
 )
 
 type EvaluationData struct {

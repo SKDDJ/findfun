@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"./models"
+	"github.com/skddj/findfun/backend/models"
 )
 
 func InsertGathering(db *sql.DB, gathering *models.Gathering) error {

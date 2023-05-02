@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"./database"
+	"github.com/skddj/findfun/backend/database"
 )
 
 type Gathering struct {

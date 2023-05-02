@@ -1,7 +1,7 @@
 package models
 
 import (
-	"./database"
+	"github.com/skddj/findfun/backend/database"
 )
 
 type Evaluation struct {

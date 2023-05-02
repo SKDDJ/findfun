@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"./handlers"
+	"github.com/skddj/findfun/backend/handlers"
 
-	"./database"
+	"github.com/skddj/findfun/backend/database"
 )
 
 func main() {
